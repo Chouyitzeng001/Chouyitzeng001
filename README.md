@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **ivan59438@gmail.com**
 
-- 📓 Resume：https://www.cakeresume.com/wei-wei-e8a62e
+- 📓 Resume：
 
 
 
@@ -57,6 +57,6 @@ https://chouyitzeng001.github.io/TodoList/index.html
    <img alt="Font Awesome" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
    <img alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-   <img height="32" width="32" src="https://cdn.simpleicons.org/C#" />#
+   <img height="32" width="32" src="https://cdn.simpleicons.org/C#" />#<img height="32" width="32" src="https://cdn.simpleicons.org/Django" />
 
 </p>
