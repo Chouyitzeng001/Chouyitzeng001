@@ -44,6 +44,11 @@ https://chouyitzeng001.github.io/TodoList/index.html
 
 <p> 學習建立常用的TodoList </p>
 
+- ## React and Django其他作品🔋
+
+https://github.com/Chouyitzeng001/MyreactProject_2022.github.io
+
+https://github.com/Chouyitzeng001/MyDjangoProject_2022.github.io
 
 - ## 目前所學技術🔎
 <p>
