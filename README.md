@@ -28,6 +28,10 @@ https://chouyitzeng001.github.io/Project/text4/text4.html     ⬅分頁
 
 https://chouyitzeng001.github.io/Jquery/0509.html
 
+https://chouyitzeng001.github.io/Jquery/0509.html
+
+https://chouyitzeng001.github.io/Jquery/051101JQ.html
+
 
 <p> javascript基礎ES6 , Jquery語法 </p>
 
