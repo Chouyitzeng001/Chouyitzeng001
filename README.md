@@ -29,7 +29,7 @@ https://chouyitzeng001.github.io/Project/text4/text4.html     ⬅分頁
 https://chouyitzeng001.github.io/Jquery/0509.html
 
 
-<p> 學習使用React創建方式與Hooks運用 , javascript基礎ES6 , Jquery語法 </p>
+<p> javascript基礎ES6 , Jquery語法 </p>
 
 - ## Pokemon_Card🔋
 
@@ -48,7 +48,11 @@ https://chouyitzeng001.github.io/TodoList/index.html
 
 https://github.com/Chouyitzeng001/MyreactProject_2022.github.io
 
+<p> 學習使用React創建方式與Hooks運用 </p>
+
 https://github.com/Chouyitzeng001/MyDjangoProject_2022.github.io
+
+<p> 學習使用Django創建方式, python </p>
 
 - ## 目前所學技術🔎
 <p>
