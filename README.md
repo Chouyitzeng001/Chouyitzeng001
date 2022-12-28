@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chou yi Tzeng<br><br> </h1>
+<h1 align="center">Hi 👋, I'm Chou Yi Tzeng<br><br> </h1>
 
 - 💻 [My Website](https://github.com/Chouyitzeng001)
 
