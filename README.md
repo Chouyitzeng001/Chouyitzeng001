@@ -37,14 +37,14 @@ https://chouyitzeng001.github.io/Jquery/051101JQ.html
 
 https://Chouyitzeng001.github.io/Pokemon_Card/index.html
 
-<p> 學習前端串接API </p>
+<p> 學習前端串接API，資源來自youtube </p>
 
 
 - ## TodoList🔋
 
 https://chouyitzeng001.github.io/TodoList/index.html
 
-<p> 學習建立常用的TodoList </p>
+<p> 學習建立常用的TodoList，資源來自youtube </p>
 
 - ## React and Django其他作品🔋
 
