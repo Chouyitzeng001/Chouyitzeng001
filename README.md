@@ -4,8 +4,6 @@
 
 - 📫 How to reach me **ivan59438@gmail.com**
 
-- 📓 Resume：
-
 
 
 
